@@ -7,4 +7,7 @@ public class Calculadora {
     public void multiplicaDoisNumeros(int a, int b){
         System.out.println(a*b);
     }
+    public  double divideDoisNumeros(double a, double b){
+        return a/b;
+    }
 }
